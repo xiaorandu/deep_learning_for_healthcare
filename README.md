@@ -1,1 +1,4 @@
-# deep_learning_for_healthcare
+# Deep Learning Applications for Healthcare
++ Implemented an ECG classification model using the [MINA](https://github.com/xiaorandu/deep_learning_for_healthcare/blob/main/ECG_Classification_with_MINA.ipynb) framework, applying attention mechanisms with CNN and RNN techniques to accurately detect arrhythmias from ECG signals.
++ Implemented the [RETAIN](https://github.com/xiaorandu/deep_learning_for_healthcare/blob/main/RETAIN.ipynb) model for interpretable healthcare predictions from EHR, leveraging a two-level attention mechanism and RNN model to predict outcomes like disease onset and readmission risks.
++ Implemented [MedGAN](https://github.com/xiaorandu/deep_learning_for_healthcare/blob/main/MedGAN.ipynb) to generate realistic synthetic medical data using the MIMIC-III dataset, preserving privacy and facilitating healthcare research.
